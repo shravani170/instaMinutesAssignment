@@ -1,9 +1,9 @@
 # instaMinutesAssignment
-#how to run it?
+##how to run it?
 in terminal
 cd src
 npm i 
-#postman input looks like
+##postman input looks like
 ##for creation of event
 {
     "event":[{
