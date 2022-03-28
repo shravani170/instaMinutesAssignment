@@ -1,10 +1,10 @@
 # instaMinutesAssignment
-##how to run it?
+# how to run it?
 in terminal
 cd src
 npm i 
-##postman input looks like
-##for creation of event
+## postman input looks like
+## for creation of event
 {
     "event":[{
     "text":"agendaOfMeeting",
@@ -19,7 +19,7 @@ npm i
     "dateTime":"2022-03-28 9:00:00.000"
     }]
    }
-##for getting event triggered
+## for getting event triggered
 give input in query params like
 text=holiday
 # Problem Statement
